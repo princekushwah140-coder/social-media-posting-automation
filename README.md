@@ -53,28 +53,39 @@ The workflow follows this sequence:
 
 ## 📸 Workflow Screenshots
 
-Add your actual screenshots inside the `screenshots` folder.
+Explore the different components of the AI-powered Social Media Posting Automation workflow built using n8n.
 
-### Complete Workflow
+### 1. Complete Workflow
 
-![Complete n8n Workflow](screenshots/workflow-overview.png)
+![Complete n8n Workflow](./Screenshot%20%2886%29.png)
 
-### AI Agent Integration
+### 2. AI Agent Integration
 
-![AI Agent](screenshots/ai-agent.png)
+![AI Agent Integration](./Screenshot%20%2887%29.png)
 
-### Google Sheets Integration
+### 3. Google Sheets Integration
 
-![Google Sheets](screenshots/google-sheets.png)
+![Google Sheets Integration](./Screenshot%20%2888%29.png)
 
-### YouTube Integration
+### 4. YouTube Integration
 
-![YouTube Upload](screenshots/youtube-upload.png)
+![YouTube Upload Integration](./Screenshot%20%2889%29.png)
 
-### Workflow Execution
+### 5. Workflow Execution
 
-![Workflow Execution](screenshots/execution.png)
+![Workflow Execution](./Screenshot%20%2890%29.png)
 
+### Additional Workflow Screenshots
+
+![Social Media Automation Screenshot 6](./Screenshot%20%2891%29.png)
+
+![Social Media Automation Screenshot 7](./Screenshot%20%2892%29.png)
+
+![Social Media Automation Screenshot 8](./Screenshot%20%2893%29.png)
+
+![Social Media Automation Screenshot 9](./Screenshot%20%2894%29.png)
+
+![Social Media Automation Screenshot 10](./Screenshot%20%2895%29.png)
 ## 📂 Project Structure
 
 ```text
