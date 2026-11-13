@@ -69,11 +69,11 @@ Explore the different components of the AI-powered Social Media Posting Automati
 
 ### 4. YouTube Integration
 
-![YouTube Upload Integration](./Screenshot%20%2889%29.png)
+![YouTube Upload Integration](./Screenshot%20%2893%29.png)
 
 ### 5. Workflow Execution
 
-![Workflow Execution](./Screenshot%20%2890%29.png)
+![Workflow Execution](./Screenshot%20%2890%95.png)
 
 ### Additional Workflow Screenshots
 
