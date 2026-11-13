@@ -73,7 +73,7 @@ Explore the different components of the AI-powered Social Media Posting Automati
 
 ### 5. Workflow Execution
 
-![Workflow Execution](./Screenshot%20%2890%95.png)
+![Workflow Execution](./Screenshot%20%2895%29.png)
 
 ### Additional Workflow Screenshots
 
